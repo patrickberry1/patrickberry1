@@ -6,7 +6,7 @@
 - I'm looking for work 👀
 
 ### If You Want To know More
-👉 [Check out my CV](cv.pdf)
+👉 [Check out my CV](cv.pdf) or 🎆 [my website (WIP)](http://patrickberry1.github.io) 🎆
 <!--
 **patrickberry1/patrickberry1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
